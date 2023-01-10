@@ -1,0 +1,16 @@
+.pk{
+    width : 300px;
+    background: lavender;
+    color: blueviolet;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+    
+    border: 2px solid blueviolet;
+    border-radius: 20px;
+
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
